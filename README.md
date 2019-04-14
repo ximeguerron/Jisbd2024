@@ -38,6 +38,13 @@ La lista de fuentes iniciales es la siguiente: IEEE Xplore, ACM Digital Library,
 Aqui se presenta la lista de estudios primarios que forman parte de la revision sistematica.
 
 
+No. | Información del Artículo
+------------ | -------------
+Content from cell 1 | Content from cell 2
+S01	|Abdeladim, A., Baina, S., & Baina, K. (2014). Elasticity and scalability centric quality model for the cloud. In 2014 Third IEEE International Colloquium in Information Science and Technology (CIST) (pp. 135–140). http://doi.org/10.1109/CIST.2014.7016607
+S02	|Al-Jawad, A., Trestian, R., Shah, P., & Gemikonakli, O. (2015). BaProbSDN: A probabilistic-based QoS routing mechanism for Software Defined Networks. In Network Softwarization (NetSoft), 2015 1st IEEE Conference on (pp. 1–5). http://doi.org/10.1109/NETSOFT.2015.7116128
+
+
 
 ### 4. Criterios de extracción de datos
 Los criterios aplicados para la seleccion de datos son:
