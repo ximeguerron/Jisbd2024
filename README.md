@@ -123,7 +123,7 @@ S80	|Garcia-Pineda, M., Segura-Garcia, J., & Felici-Castell, S. (2018). Estimati
 S81	|Preuveneers, D., Heyman, T., Berbers, Y., & Joosen, W. (2016). Systematic scalability assessment for feature oriented multi-tenant services. Journal of Systems and Software, 116, 162–176. https://doi.org/10.1016/j.jss.2015.12.024
 S82	|Rizvi, S., Roddy, H., Gualdoni, J., & Myzyri, I. (2017). Three-Step Approach to QoS Maintenance in Cloud Computing Using a Third-Party Auditor. Procedia Computer Science, 114, 83–92. https://doi.org/10.1016/j.procs.2017.09.014
 S83	|Abd, S. K., Al-Haddad, S. A. R., Hashim, F., Abdullah, A. B. H. J., & Yussof, S. (2017). An effective approach for managing power consumption in cloud computing infrastructure. Journal of Computational Science, 21, 349–360. https://doi.org/https://doi.org/10.1016/j.jocs.2016.11.007
-S84	|Barba-Jimenez, C., Ramirez-Velarde, R., Tchernykh, A., Rodríguez-Dagnino, R., Nolazco-Flores, J., & Perez-Cazares, R. (2016). Cloud based Video-on-Demand service model ensuring quality of service and scalability. Journal of Network and Computer Applications, 70, 102–113. |https://doi.org/10.1016/j.jnca.2016.05.007
+S84	|Barba-Jimenez, C., Ramirez-Velarde, R., Tchernykh, A., Rodríguez-Dagnino, R., Nolazco-Flores, J., & Perez-Cazares, R. (2016). Cloud based Video-on-Demand service model ensuring quality of service and scalability. Journal of Network and Computer Applications, 70, 102–113.https://doi.org/10.1016/j.jnca.2016.05.007
 S85	|Lu, L., & Yuan, Y. (2018). A novel TOPSIS evaluation scheme for cloud service trustworthiness combining objective and subjective aspects. Journal of Systems and Software, 143, 71–86. https://doi.org/10.1016/j.jss.2018.05.004
 S86	|Mesbahi, M. R., Rahmani, A. M., & Hosseinzadeh, M. (2018). Reliability and high availability in cloud computing environments: a reference roadmap. Human-Centric Computing and Information Sciences, 8(1), 20. https://doi.org/10.1186/s13673-018-0143-8
 S87	|Ravindhren, V. G., & Ravimaran, S. (2017). CCMA—cloud critical metric assessment framework for scientific computing. Cluster Computing. https://doi.org/10.1007/s10586-017-1384-4
@@ -133,6 +133,8 @@ S87	|Ravindhren, V. G., & Ravimaran, S. (2017). CCMA—cloud critical metric ass
 ### 4. Criterios de extracción de datos
 Los criterios aplicados para la seleccion de datos son:
 
+Criterio | Posibles Respuestas
+------------ | -------------
 Criterio | Posibles Respuestas
 ------------ | -------------
 1.	Característica y atributo de calidad evaluado |-Adecuación Funcional, 
