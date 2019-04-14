@@ -135,16 +135,15 @@ Los criterios aplicados para la seleccion de datos son:
 
 Criterio | Posibles Respuestas
 ------------ | -------------
-Criterio | Posibles Respuestas
------------- | -------------
-1.	Característica y atributo de calidad evaluado |-Adecuación Funcional, 
--Eficiencia de desempeño, 
--Compatibilidad, 
--Usabilidad, 
--Fiabilidad, 
--Seguridad, 
+
+Característica y atributo de calidad evaluado |-Adecuación Funcional 
+-Eficiencia de desempeño
+-Compatibilidad 
+-Usabilidad 
+-Fiabilidad 
+-Seguridad 
 -Mantenibilidad 
--Portabilidad).
+-Portabilidad
 2.	Fase del ciclo de vida en el que se aplica la métrica |(Requisitos, Adquisición, Desarrollo, Integración, Operación y Retiro).
 3.	Artefacto sobre el cuál se realiza la medición |(Especificación del servicio cloud, Arquitectura del servicio cloud, Servicio cloud).
 4.	Tipo de servicio |(Software como servicio – SaaS, Plataforma como servicio – PaaS, Infraestructura como servicio – IaaS).
