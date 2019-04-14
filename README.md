@@ -15,10 +15,10 @@ En esta pagina, usted encontrara información relevante asociada a la Revisión 
 ### 1. Protocolo de Busqueda
 
 El estudio de la población y la intervención es el siguiente:
--	Población: Artículos científicos que presentan métricas para la evaluación de la calidad interna y externa de los servicios cloud.
--	Intervención: Métricas de calidad que se utilizan para evaluar las característi-cas de calidad de los servicios cloud.
--	Resultados: Análisis de un conjunto de métricas que sirvan de base para la elaboración de un modelo de calidad de servicios cloud alineado con la ISO/IEC 25010 y basado en la literatura.
--	Contexto: Evaluación de calidad de los servicios cloud que proponen métricas para medir la calidad del servicio (QoS – Quality of Service). 
+-	**Población:** Artículos científicos que presentan métricas para la evaluación de la calidad interna y externa de los servicios cloud.
+-	**Intervención:** Métricas de calidad que se utilizan para evaluar las característi-cas de calidad de los servicios cloud.
+-	**Resultados:** Análisis de un conjunto de métricas que sirvan de base para la elaboración de un modelo de calidad de servicios cloud alineado con la ISO/IEC 25010 y basado en la literatura.
+-	**Contexto:** Evaluación de calidad de los servicios cloud que proponen métricas para medir la calidad del servicio (QoS – Quality of Service). 
 
 La cadena seleccionada finalmente fue la siguiente: 
 
@@ -133,20 +133,25 @@ S87	|Ravindhren, V. G., & Ravimaran, S. (2017). CCMA—cloud critical metric ass
 ### 4. Criterios de extracción de datos
 Los criterios aplicados para la seleccion de datos son:
 
-Criterio | Posibles Respuestas
+**Criterio | Posibles Respuestas**
 ------------ | -------------
 Característica y atributo de calidad evaluado |-Adecuación Funcional 
--Eficiencia de desempeño
--Compatibilidad -Usabilidad -Fiabilidad -Seguridad -Mantenibilidad -Portabilidad
-Fase del ciclo de vida en el que se aplica la métrica |(Requisitos, Adquisición, Desarrollo, Integración, Operación y Retiro).
-Artefacto sobre el cuál se realiza la medición |(Especificación del servicio cloud, Arquitectura del servicio cloud, Servicio cloud).
-Tipo de servicio |(Software como servicio – SaaS, Plataforma como servicio – PaaS, Infraestructura como servicio – IaaS).
-Punto de vista |(Proveedor del servicio, Facilitador del servicio, Consumidor del servicio, Cliente final, Desarrollador del servicio).
-Procedimiento de validación de la métrica |(Validación teórica, Validación empírica, No validada).
+ |-Eficiencia de desempeño
+ |-Compatibilidad 
+ |-Usabilidad
+ |-Fiabilidad 
+ |-Seguridad 
+ |-Mantenibilidad 
+ |-Portabilidad
+Fase del ciclo de vida en el que se aplica la métrica |Requisitos, Adquisición, Desarrollo, Integración, Operación y Retiro
+Artefacto sobre el cuál se realiza la medición |Especificación del servicio cloud, Arquitectura del servicio cloud, Servicio cloud
+Tipo de servicio |Software como servicio – SaaS, Plataforma como servicio – PaaS, Infraestructura como servicio – IaaS
+Punto de vista |Proveedor del servicio, Facilitador del servicio, Consumidor del servicio, Cliente final, Desarrollador del servicio
+Procedimiento de validación de la métrica |Validación teórica, Validación empírica, No validada
 
 ### 5. Clasificacion de Metricas
 
 
 
 ### Contactos 
-Si tiene problemas con la pagina puede contactarse al correo electrónico [contact support](xiguesan@doctor.upv.es) and we’ll help you sort it out.
+Si tiene problemas con la pagina puede contactarse al [correo electrónico](xiguesan@doctor.upv.es) 
