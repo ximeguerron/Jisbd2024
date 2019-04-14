@@ -147,8 +147,6 @@ En esta sección se muestran las metricas recolectadas en los estudios primarios
 
 Artículo	|Caracteristica	|Métrica|Requisitos	|Adquisicion	|Desarrollo	|Integracion	|Operación	|Retiro	|Especificación del servicio cloud	|Arquitectura del Servicio cloud	|Servicio cloud	|SaaS	|PaaS	|IaaS	|Proveedor del servicio	|Facilitador del servicio	|Consumidor del servicio	|Cliente final	|Desarrollador del servicio	|Validación Teórica	|Aproximación axiomática	|Aproximación basada en la Teoría de la Medición	|Validación Empírica	|Experimento Controlado	|Caso de estudio	|Encuesta	|No validada	|Prueba de concepto
 
------------- | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|
-
 
 ### Contactos 
 Si tiene problemas con la pagina puede contactarse al [correo electrónico](xiguesan@doctor.upv.es) 
