@@ -30,8 +30,14 @@ La búsqueda se llevó a cabo utilizando el título, el resumen y las palabras c
 El período de búsqueda comprende desde el año 2006 hasta noviembre 2018. 
 
 ### 2. Cadenas de busqueda bibliotecas digitales
-La lista de fuentes iniciales es la siguiente: IEEE Xplore, ACM Digital Library, Scien-ceDirect y SpringerLink
+La lista de fuentes iniciales es la siguiente: IEEE Xplore, ACM Digital Library, ScienceDirect y SpringerLink
 
+Biblioteca digital | Cadena de busqueda | Campos de busqueda |Restricciones
+------------ | ------------- |------------ | ------------- 
+IEEE Xplore | |Títulos, resúmenes, y palabras claves|Content Type: Conference Publications and Journals & Magazines. Year: 2006-2018
+ACM Digital Library| |Títulos, resúmenes, y palabras claves.|Published since: 2006
+ScienceDirect| |Títulos, resúmenes, y palabras claves.	|Pub-date > 2005. Content type: Journal.
+SpringerLink| |Texto completo	|Content Type: Article. Discipline: Computer Science Language: English.
 
 ### 3. Estudios primarios seleccionados
 
