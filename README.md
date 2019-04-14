@@ -135,7 +135,6 @@ Los criterios aplicados para la seleccion de datos son:
 
 Criterio | Posibles Respuestas
 ------------ | -------------
-
 Característica y atributo de calidad evaluado |-Adecuación Funcional 
 -Eficiencia de desempeño
 -Compatibilidad 
