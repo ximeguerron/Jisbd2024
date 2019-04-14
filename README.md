@@ -133,16 +133,9 @@ S87	|Ravindhren, V. G., & Ravimaran, S. (2017). CCMA—cloud critical metric ass
 ### 4. Criterios de extracción de datos
 Los criterios aplicados para la seleccion de datos son:
 
-**Criterio | Posibles Respuestas**
+Criterio | Posibles Respuestas
 ------------ | -------------
-Característica y atributo de calidad evaluado |-Adecuación Funcional 
- |-Eficiencia de desempeño
- |-Compatibilidad 
- |-Usabilidad
- |-Fiabilidad 
- |-Seguridad 
- |-Mantenibilidad 
- |-Portabilidad
+Característica y atributo de calidad evaluado |Adecuación Funcional, Eficiencia de desempeño, Compatibilidad, Usabilidad, Fiabilidad, Seguridad , Mantenibilidad, Portabilidad
 Fase del ciclo de vida en el que se aplica la métrica |Requisitos, Adquisición, Desarrollo, Integración, Operación y Retiro
 Artefacto sobre el cuál se realiza la medición |Especificación del servicio cloud, Arquitectura del servicio cloud, Servicio cloud
 Tipo de servicio |Software como servicio – SaaS, Plataforma como servicio – PaaS, Infraestructura como servicio – IaaS
@@ -150,7 +143,11 @@ Punto de vista |Proveedor del servicio, Facilitador del servicio, Consumidor del
 Procedimiento de validación de la métrica |Validación teórica, Validación empírica, No validada
 
 ### 5. Clasificacion de Metricas
+En esta sección se muestran las metricas recolectadas en los estudios primarios y su clasificacion de acuerdo a los criterios de extracción de datos.
 
+Artículo	|Caracteristica	|Métrica|Requisitos	|Adquisicion	|Desarrollo	|Integracion	|Operación	|Retiro	|Especificación del servicio cloud	|Arquitectura del Servicio cloud	|Servicio cloud	|SaaS	|PaaS	|IaaS	|Proveedor del servicio	|Facilitador del servicio	|Consumidor del servicio	|Cliente final	|Desarrollador del servicio	|Validación Teórica	|Aproximación axiomática	|Aproximación basada en la Teoría de la Medición	|Validación Empírica	|Experimento Controlado	|Caso de estudio	|Encuesta	|No validada	|Prueba de concepto
+
+------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|------------ | -------------|
 
 
 ### Contactos 
