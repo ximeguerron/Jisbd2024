@@ -15,18 +15,19 @@ En esta pagina, usted encontrara información relevante asociada a la Revisión 
 ### 1. Protocolo de Busqueda
 
 El estudio de la población y la intervención es el siguiente:
-•	Población: Artículos científicos que presentan métricas para la evaluación de la calidad interna y externa de los servicios cloud.
-•	Intervención: Métricas de calidad que se utilizan para evaluar las característi-cas de calidad de los servicios cloud.
-•	Resultados: Análisis de un conjunto de métricas que sirvan de base para la elaboración de un modelo de calidad de servicios cloud alineado con la ISO/IEC 25010 y basado en la literatura.
-•	Contexto: Evaluación de calidad de los servicios cloud que proponen métricas para medir la calidad del servicio (QoS – Quality of Service). 
+-	Población: Artículos científicos que presentan métricas para la evaluación de la calidad interna y externa de los servicios cloud.
+-	Intervención: Métricas de calidad que se utilizan para evaluar las característi-cas de calidad de los servicios cloud.
+-	Resultados: Análisis de un conjunto de métricas que sirvan de base para la elaboración de un modelo de calidad de servicios cloud alineado con la ISO/IEC 25010 y basado en la literatura.
+-	Contexto: Evaluación de calidad de los servicios cloud que proponen métricas para medir la calidad del servicio (QoS – Quality of Service). 
 
 La cadena seleccionada finalmente fue la siguiente: 
+
 (((metric* OR measur*)) AND 
 (QoS OR "quality of service" OR "quality model" OR "evaluation model" OR "as-sessment model" OR "quality in cloud" OR "quality of cloud") AND 
 (cloud*))
 
 La búsqueda se llevó a cabo utilizando el título, el resumen y las palabras clave de los artículos.  
-El período de búsqueda comprende desde el año 2006 hasta noviembre 2018. Se ha escogido el año 2006 porque en este año fue el lanzamiento de Amazon Web Services, que es una colección de servicios de computación en la nube considerado pionero en este campo.
+El período de búsqueda comprende desde el año 2006 hasta noviembre 2018. 
 
 ### 2. Cadenas de busqueda bibliotecas digitales
 La lista de fuentes iniciales es la siguiente: IEEE Xplore, ACM Digital Library, Scien-ceDirect y SpringerLink
