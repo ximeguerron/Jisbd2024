@@ -135,19 +135,12 @@ Los criterios aplicados para la seleccion de datos son:
 
 Criterio | Posibles Respuestas
 ------------ | -------------
-Característica y atributo de calidad evaluado |-Adecuación Funcional 
--Eficiencia de desempeño
--Compatibilidad 
--Usabilidad 
--Fiabilidad 
--Seguridad 
--Mantenibilidad 
--Portabilidad
-2.	Fase del ciclo de vida en el que se aplica la métrica |(Requisitos, Adquisición, Desarrollo, Integración, Operación y Retiro).
-3.	Artefacto sobre el cuál se realiza la medición |(Especificación del servicio cloud, Arquitectura del servicio cloud, Servicio cloud).
-4.	Tipo de servicio |(Software como servicio – SaaS, Plataforma como servicio – PaaS, Infraestructura como servicio – IaaS).
-5.	Punto de vista |(Proveedor del servicio, Facilitador del servicio, Consumidor del servicio, Cliente final, Desarrollador del servicio).
-6.	Procedimiento de validación de la métrica |(Validación teórica, Validación empírica, No validada).
+Característica y atributo de calidad evaluado |-Adecuación Funcional -Eficiencia de desempeño-Compatibilidad -Usabilidad -Fiabilidad -Seguridad -Mantenibilidad -Portabilidad
+Fase del ciclo de vida en el que se aplica la métrica |(Requisitos, Adquisición, Desarrollo, Integración, Operación y Retiro).
+Artefacto sobre el cuál se realiza la medición |(Especificación del servicio cloud, Arquitectura del servicio cloud, Servicio cloud).
+Tipo de servicio |(Software como servicio – SaaS, Plataforma como servicio – PaaS, Infraestructura como servicio – IaaS).
+Punto de vista |(Proveedor del servicio, Facilitador del servicio, Consumidor del servicio, Cliente final, Desarrollador del servicio).
+Procedimiento de validación de la métrica |(Validación teórica, Validación empírica, No validada).
 
 ### 5. Clasificacion de Metricas
 
