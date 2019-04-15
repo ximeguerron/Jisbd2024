@@ -1,7 +1,7 @@
-## Revisión Sistemática de Métricas de Calidad para Servicios Cloud
+## Métricas de Calidad Interna y Externa para Servicios Cloud: Un Mapeo Sistemático
 
 Bienvenido,
-En esta pagina, usted encontrara información relevante asociada a la Revisión Sistemática y la metodología de investigación 
+En esta página, usted encontrara información relevante asociada al Mapeo Sistemático de las métricas de calidad interna y externa para servicios cloud, y la metodología de investigación 
 
 # Indice
 
@@ -20,7 +20,7 @@ El estudio de la población y la intervención es el siguiente:
 -	**Resultados:** Análisis de un conjunto de métricas que sirvan de base para la elaboración de un modelo de calidad de servicios cloud alineado con la ISO/IEC 25010 y basado en la literatura.
 -	**Contexto:** Evaluación de calidad de los servicios cloud que proponen métricas para medir la calidad del servicio (QoS – Quality of Service). 
 
-La cadena seleccionada finalmente fue la siguiente: 
+Finalmente la cadena seleccionada fue la siguiente: 
 
 (((metric* OR measur*)) AND 
 (QoS OR "quality of service" OR "quality model" OR "evaluation model" OR "as-sessment model" OR "quality in cloud" OR "quality of cloud") AND 
@@ -41,7 +41,7 @@ SpringerLink| |Texto completo	|Content Type: Article. Discipline: Computer Scien
 
 ### 3. Estudios primarios seleccionados
 
-Aqui se presenta la lista de estudios primarios que forman parte de la revision sistematica.
+Aqui se presenta la lista de estudios primarios que forman parte del mapeo sistemático.
 
 
 No. | Información del Artículo
@@ -148,10 +148,9 @@ Tipo de servicio |Software como servicio – SaaS, Plataforma como servicio – 
 Punto de vista |Proveedor del servicio, Facilitador del servicio, Consumidor del servicio, Cliente final, Desarrollador del servicio
 Procedimiento de validación de la métrica |Validación teórica, Validación empírica, No validada
 
-### 5. Clasificacion de Metricas
-En esta sección se muestran las metricas recolectadas en los estudios primarios y su clasificacion de acuerdo a los criterios de extracción de datos.
+### 5. Clasificación de Métricas
+En esta sección se muestran las métricas recolectadas en los estudios primarios y su clasificación de acuerdo a los criterios de extracción de datos.
 
-Artículo	|Caracteristica	|Métrica|Requisitos	|Adquisicion	|Desarrollo	|Integracion	|Operación	|Retiro	|Especificación del servicio cloud	|Arquitectura del Servicio cloud	|Servicio cloud	|SaaS	|PaaS	|IaaS	|Proveedor del servicio	|Facilitador del servicio	|Consumidor del servicio	|Cliente final	|Desarrollador del servicio	|Validación Teórica	|Aproximación axiomática	|Aproximación basada en la Teoría de la Medición	|Validación Empírica	|Experimento Controlado	|Caso de estudio	|Encuesta	|No validada	|Prueba de concepto
 
 
 ### Contactos 
