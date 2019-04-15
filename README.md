@@ -1,6 +1,5 @@
-## Métricas de Calidad Interna y Externa para Servicios Cloud: Un Mapeo Sistemático
+## Bienvenido
 
-Bienvenido,
 En esta página, usted encontrara información relevante asociada al Mapeo Sistemático de las métricas de calidad interna y externa para servicios cloud, y la metodología de investigación 
 
 # Indice
@@ -151,7 +150,7 @@ Procedimiento de validación de la métrica |Validación teórica, Validación e
 ### 5. Clasificación de Métricas
 En esta sección se muestran las métricas recolectadas en los estudios primarios y su clasificación de acuerdo a los criterios de extracción de datos.
 
-<a href ="./files/Apendice1.ClasificacionMetricas.pdf">  Apendice 1 </a>
+<a href ="./files/Apendice1.ClasificacionMetricas.pdf">  Apéndice 1 </a>
 
 ### Contactos 
 Si tiene dudas o sugerencias puede contactarse al correo electrónico xiguesan@doctor.upv.es 
