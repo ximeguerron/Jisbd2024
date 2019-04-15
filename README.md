@@ -1,5 +1,5 @@
-# Bienvenido {#inicio}
-
+# Bienvenido 
+{#inicio}
 En esta página, usted encontrara información relevante asociada al Mapeo Sistemático de las métricas de calidad interna y externa para servicios cloud, y la metodología de investigación 
 
 # Indice
