@@ -1,8 +1,8 @@
 # Bienvenido 
-{#inicio}
+
 En esta página, usted encontrara información relevante asociada al Mapeo Sistemático de las métricas de calidad interna y externa para servicios cloud, y la metodología de investigación 
 
-# Indice
+## Indice {#inicio}
 
 1. [Protocolo de Búsqueda](#Protocolo)
 2. [Cadenas de busqueda bibliotecas digitales](#busqueda)
