@@ -1,8 +1,8 @@
-# Bienvenido 
+# Bienvenido {#inicio}
 
 En esta página, usted encontrara información relevante asociada al Mapeo Sistemático de las métricas de calidad interna y externa para servicios cloud, y la metodología de investigación 
 
-## Indice {#inicio}
+## Indice
 
 1. [Protocolo de Búsqueda](#Protocolo)
 2. [Cadenas de busqueda bibliotecas digitales](#busqueda)
@@ -37,6 +37,8 @@ IEEE Xplore |((( "Document Title":metric* OR  "Document Title":measur*)) AND ( "
 ACM Digital Library|(((acmdlTitle:metric* OR acmdlTitle:measur*)) AND (acmdlTitle:QoS OR acmdlTitle:"quality of service" OR  acmdlTitle:"quality model" OR acmdlTitle:"evaluation model" OR acmdlTitle:"assessment model" OR acmdlTitle:"quality in cloud" OR acmdlTitle:"quality of cloud") AND (acmdlTitle:cloud*)) OR (((recordAbstract:metric* OR recordAbstract:measur*)) AND (recordAbstract:QoS OR recordAbstract:"quality of service" OR recordAbstract:"quality model" OR recordAbstract:"evaluation model" OR recordAbstract:"assessment model" OR recordAbstract:"quality in cloud" OR recordAbstract:"quality of cloud") AND (recordAbstract:cloud*)) OR (((keywords.author.keyword:metric* OR keywords.author.keyword:measur*)) AND (keywords.author.keyword:QoS OR keywords.author.keyword:"quality of service" OR keywords.author.keyword:"quality model" OR keywords.author.keyword:"evaluation model" OR keywords.author.keyword:"assessment model" OR keywords.author.keyword:"quality in cloud" OR keywords.author.keyword:"quality of cloud") AND (keywords.author.keyword:cloud*)) |Títulos, resúmenes, y palabras claves.|Published since: 2006
 ScienceDirect|TITLE-ABSTR-KEY((((metric* OR measur*)) AND (QoS OR {quality of service} OR {quality model} OR {evaluation model} OR {quality in cloud} OR {quality of cloud}) AND (cloud*))) |Títulos, resúmenes, y palabras claves.	|Pub-date > 2005. Content type: Journal.
 SpringerLink| (((metric* OR measur*)) AND (QoS OR "quality of service" OR "quality model" OR "evaluation model" OR "quality in cloud" OR "quality of cloud") AND (cloud*))|Texto completo	|Content Type: Article. Discipline: Computer Science Language: English.
+
+[Inicio](#inicio)
 
 ## 3. Estudios primarios seleccionados {#estudios}
 
@@ -133,7 +135,7 @@ S85	|Lu, L., & Yuan, Y. (2018). A novel TOPSIS evaluation scheme for cloud servi
 S86	|Mesbahi, M. R., Rahmani, A. M., & Hosseinzadeh, M. (2018). Reliability and high availability in cloud computing environments: a reference roadmap. Human-Centric Computing and Information Sciences, 8(1), 20. https://doi.org/10.1186/s13673-018-0143-8
 S87	|Ravindhren, V. G., & Ravimaran, S. (2017). CCMA—cloud critical metric assessment framework for scientific computing. Cluster Computing. https://doi.org/10.1007/s10586-017-1384-4
 
-
+[Inicio](#inicio)
 
 ## 4. Criterios de extracción de datos {#criterios}
 Los criterios aplicados para la seleccion de datos son:
