@@ -151,7 +151,7 @@ Procedimiento de validación de la métrica |Validación teórica, Validación e
 ### 5. Clasificación de Métricas
 En esta sección se muestran las métricas recolectadas en los estudios primarios y su clasificación de acuerdo a los criterios de extracción de datos.
 
-![Apéndice 1] [./files/Apendice1.ClasificacionMetricas.pdf]
+![Apéndice 1] (./files/Apendice1.ClasificacionMetricas.pdf)
 
 ### Contactos 
 Si tiene dudas o sugerencias puede contactarse al correo electrónico xiguesan@doctor.upv.es 
