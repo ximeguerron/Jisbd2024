@@ -11,7 +11,7 @@ En esta página, usted encontrara información relevante asociada al Mapeo Siste
 5. Clasificacion de Metricas
 
 
-### 1. Protocolo de Búsqueda
+## 1. Protocolo de Búsqueda
 
 El estudio de la población y la intervención es el siguiente:
 -	**Población:** Artículos científicos que presentan métricas para la evaluación de la calidad interna y externa de los servicios cloud.
@@ -28,17 +28,24 @@ Finalmente la cadena seleccionada fue la siguiente:
 La búsqueda se llevó a cabo utilizando el título, el resumen y las palabras clave de los artículos.  
 El período de búsqueda comprende desde el año 2006 hasta noviembre 2018. 
 
-### 2. Cadenas de busqueda bibliotecas digitales
+## 2. Cadenas de busqueda bibliotecas digitales
 La lista de fuentes iniciales es la siguiente: IEEE Xplore, ACM Digital Library, ScienceDirect y SpringerLink
 
 Biblioteca digital | Cadena de busqueda | Campos de busqueda |Restricciones
 ------------ | ------------- |------------ | ------------- 
-IEEE Xplore | |Títulos, resúmenes, y palabras claves|Content Type: Conference Publications and Journals & Magazines. Year: 2006-2018
-ACM Digital Library| |Títulos, resúmenes, y palabras claves.|Published since: 2006
-ScienceDirect| |Títulos, resúmenes, y palabras claves.	|Pub-date > 2005. Content type: Journal.
-SpringerLink| |Texto completo	|Content Type: Article. Discipline: Computer Science Language: English.
+IEEE Xplore |((( "Document Title":metric* OR  "Document Title":measur*)) AND ( "Document Title":QoS OR  "Document Title":"quality of service" OR "Document Title":"quality model" OR  "Document Title":"evaluation model" OR  "Document Title":"assessment model" OR  "Document Title":"quality in cloud" OR  "Document Title":"quality of cloud") AND ( "Document Title":cloud*)) OR
 
-### 3. Estudios primarios seleccionados
+((( "Publication Title":metric* OR  "Publication Title":measur*)) AND ( "Publication Title":QoS OR  "Publication Title":"quality of service" OR "Publication Title":"quality model" OR  "Publication Title":"evaluation model" OR  "Publication Title":"assessment model" OR  "Publication Title":"quality in cloud" OR  "Publication Title":"quality of cloud") AND ( "Publication Title":cloud*)))AND
+
+((( "Abstract":metric* OR  "Abstract":measur*)) AND ( "Abstract":QoS OR  "Abstract":"quality of service" OR  "Abstract":"quality model" OR  "Abstract":"evaluation model" OR  "Abstract":"assessment model" OR  "Abstract":"quality in cloud" OR  "Abstract":"quality of cloud") AND ( "Abstract":cloud*)) AND
+
+((( "Author Keywords":metric* OR  "Author Keywords":measur*)) AND ( "Author Keywords":QoS OR  "Author Keywords":"quality of service" OR  "Author Keywords":"quality model" OR  "Author Keywords":"evaluation model" OR  "Author Keywords":"assessment model" OR  "Author Keywords":"quality in cloud" OR  "Author Keywords":"quality of cloud") AND ( "Author Keywords":cloud*))
+ |Títulos, resúmenes, y palabras claves|Content Type: Conference Publications and Journals & Magazines. Year: 2006-2018
+ACM Digital Library|(((acmdlTitle:metric* OR acmdlTitle:measur*)) AND (acmdlTitle:QoS OR acmdlTitle:"quality of service" OR  acmdlTitle:"quality model" OR acmdlTitle:"evaluation model" OR acmdlTitle:"assessment model" OR acmdlTitle:"quality in cloud" OR acmdlTitle:"quality of cloud") AND (acmdlTitle:cloud*)) OR (((recordAbstract:metric* OR recordAbstract:measur*)) AND (recordAbstract:QoS OR recordAbstract:"quality of service" OR recordAbstract:"quality model" OR recordAbstract:"evaluation model" OR recordAbstract:"assessment model" OR recordAbstract:"quality in cloud" OR recordAbstract:"quality of cloud") AND (recordAbstract:cloud*)) OR (((keywords.author.keyword:metric* OR keywords.author.keyword:measur*)) AND (keywords.author.keyword:QoS OR keywords.author.keyword:"quality of service" OR keywords.author.keyword:"quality model" OR keywords.author.keyword:"evaluation model" OR keywords.author.keyword:"assessment model" OR keywords.author.keyword:"quality in cloud" OR keywords.author.keyword:"quality of cloud") AND (keywords.author.keyword:cloud*)) |Títulos, resúmenes, y palabras claves.|Published since: 2006
+ScienceDirect|TITLE-ABSTR-KEY((((metric* OR measur*)) AND (QoS OR {quality of service} OR {quality model} OR {evaluation model} OR {quality in cloud} OR {quality of cloud}) AND (cloud*))) |Títulos, resúmenes, y palabras claves.	|Pub-date > 2005. Content type: Journal.
+SpringerLink| (((metric* OR measur*)) AND (QoS OR "quality of service" OR "quality model" OR "evaluation model" OR "quality in cloud" OR "quality of cloud") AND (cloud*))|Texto completo	|Content Type: Article. Discipline: Computer Science Language: English.
+
+## 3. Estudios primarios seleccionados
 
 Aqui se presenta la lista de estudios primarios que forman parte del mapeo sistemático.
 
@@ -135,7 +142,7 @@ S87	|Ravindhren, V. G., & Ravimaran, S. (2017). CCMA—cloud critical metric ass
 
 
 
-### 4. Criterios de extracción de datos
+## 4. Criterios de extracción de datos
 Los criterios aplicados para la seleccion de datos son:
 
 Criterio | Posibles Respuestas
@@ -147,10 +154,10 @@ Tipo de servicio |Software como servicio – SaaS, Plataforma como servicio – 
 Punto de vista |Proveedor del servicio, Facilitador del servicio, Consumidor del servicio, Cliente final, Desarrollador del servicio
 Procedimiento de validación de la métrica |Validación teórica, Validación empírica, No validada
 
-### 5. Clasificación de Métricas
+## 5. Clasificación de Métricas
 En esta sección se muestran las métricas recolectadas en los estudios primarios y su clasificación de acuerdo a los criterios de extracción de datos.
 
 <a href ="./files/Apendice1.ClasificacionMetricas.pdf">  Apéndice 1 </a>
 
-### Contactos 
+## Contactos 
 Si tiene dudas o sugerencias puede contactarse al correo electrónico xiguesan@doctor.upv.es 
