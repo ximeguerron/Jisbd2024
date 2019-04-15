@@ -4,7 +4,7 @@ En esta página, usted encontrara información relevante asociada al Mapeo Siste
 
 # Indice
 
-1. Protocolo de Búsqueda (#Protocolo)
+1. [Protocolo de Búsqueda](#Protocolo)
 2. Cadenas de busqueda bibliotecas digitales
 3. Estudios primarios seleccionados
 4. Criterios de extracción de datos
