@@ -5,14 +5,14 @@ En esta página, usted encontrara información relevante asociada al Mapeo Siste
 
 # Indice
 
-1. Protocolo de Busqueda
+1. Protocolo de Búsqueda
 2. Cadenas de busqueda bibliotecas digitales
 3. Estudios primarios seleccionados
 4. Criterios de extracción de datos
 5. Clasificacion de Metricas
 
 
-### 1. Protocolo de Busqueda
+### 1. Protocolo de Búsqueda
 
 El estudio de la población y la intervención es el siguiente:
 -	**Población:** Artículos científicos que presentan métricas para la evaluación de la calidad interna y externa de los servicios cloud.
@@ -154,4 +154,4 @@ En esta sección se muestran las métricas recolectadas en los estudios primario
 
 
 ### Contactos 
-Si tiene problemas con la pagina puede contactarse al [correo electrónico](xiguesan@doctor.upv.es) 
+Si tiene dudas o sugerencias puede contactarse al correo electrónico xiguesan@doctor.upv.es 
