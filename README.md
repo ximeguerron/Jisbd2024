@@ -1,14 +1,14 @@
-# Bienvenido
+# Bienvenido{#inicio}
 
 En esta página, usted encontrara información relevante asociada al Mapeo Sistemático de las métricas de calidad interna y externa para servicios cloud, y la metodología de investigación 
 
 # Indice
 
 1. [Protocolo de Búsqueda](#Protocolo)
-2. Cadenas de busqueda bibliotecas digitales
-3. Estudios primarios seleccionados
-4. Criterios de extracción de datos
-5. Clasificacion de Metricas
+2. [Cadenas de busqueda bibliotecas digitales](#busqueda)
+3. [Estudios primarios seleccionados](#estudios)
+4. [Criterios de extracción de datos](#criterios)
+5. [Clasificacion de Metricas](#clasificacion)
 
 
 ## 1. Protocolo de Búsqueda {#Protocolo}
@@ -28,7 +28,7 @@ Finalmente la cadena seleccionada fue la siguiente:
 La búsqueda se llevó a cabo utilizando el título, el resumen y las palabras clave de los artículos.  
 El período de búsqueda comprende desde el año 2006 hasta noviembre 2018. 
 
-## 2. Cadenas de busqueda bibliotecas digitales
+## 2. Cadenas de busqueda bibliotecas digitales {#busqueda}
 La lista de fuentes iniciales es la siguiente: IEEE Xplore, ACM Digital Library, ScienceDirect y SpringerLink
 
 Biblioteca digital | Cadena de busqueda | Campos de busqueda |Restricciones
@@ -38,7 +38,7 @@ ACM Digital Library|(((acmdlTitle:metric* OR acmdlTitle:measur*)) AND (acmdlTitl
 ScienceDirect|TITLE-ABSTR-KEY((((metric* OR measur*)) AND (QoS OR {quality of service} OR {quality model} OR {evaluation model} OR {quality in cloud} OR {quality of cloud}) AND (cloud*))) |Títulos, resúmenes, y palabras claves.	|Pub-date > 2005. Content type: Journal.
 SpringerLink| (((metric* OR measur*)) AND (QoS OR "quality of service" OR "quality model" OR "evaluation model" OR "quality in cloud" OR "quality of cloud") AND (cloud*))|Texto completo	|Content Type: Article. Discipline: Computer Science Language: English.
 
-## 3. Estudios primarios seleccionados
+## 3. Estudios primarios seleccionados {#estudios}
 
 Aqui se presenta la lista de estudios primarios que forman parte del mapeo sistemático.
 
@@ -135,7 +135,7 @@ S87	|Ravindhren, V. G., & Ravimaran, S. (2017). CCMA—cloud critical metric ass
 
 
 
-## 4. Criterios de extracción de datos
+## 4. Criterios de extracción de datos {#criterios}
 Los criterios aplicados para la seleccion de datos son:
 
 Criterio | Posibles Respuestas
@@ -147,10 +147,12 @@ Tipo de servicio |Software como servicio – SaaS, Plataforma como servicio – 
 Punto de vista |Proveedor del servicio, Facilitador del servicio, Consumidor del servicio, Cliente final, Desarrollador del servicio
 Procedimiento de validación de la métrica |Validación teórica, Validación empírica, No validada
 
-## 5. Clasificación de Métricas
+## 5. Clasificación de Métricas {#clasificacion}
 En esta sección se muestran las métricas recolectadas en los estudios primarios y su clasificación de acuerdo a los criterios de extracción de datos.
 
 <a href ="./files/Apendice1.ClasificacionMetricas.pdf">  Apéndice 1 </a>
 
 ## Contactos 
 Si tiene dudas o sugerencias puede contactarse al correo electrónico xiguesan@doctor.upv.es 
+
+[Inicio](#inicio)
