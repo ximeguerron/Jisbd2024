@@ -7,9 +7,7 @@ En esta página, usted encontrara información relevante asociada al artículo M
 1. [Datos](#datos)
 2. [Modelos LSTM Univariado](#LSTMU)
 3. [Modelos LSTM Multivariado](#LSTMM)
-4. [Estudios primarios seleccionados](#estudios)
-5. [Criterios de extracción de datos](#criterios)
-6. [Clasificacion de Metricas](#clasificacion)
+
 
 ## 1. Datos {#Datos}
 El conjunto de datos corresponde a la información obtenida de la monitorización del servicio SAlert, el cual esta  compuesto por 16 métricas de calidad como variables de entrada y sus mediciones corresponden en una serie temporal.
