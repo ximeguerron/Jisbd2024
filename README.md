@@ -73,8 +73,8 @@ En esta sección ubicamos el código fuente del modelo LSTM Univariado y el resu
 | Variable            | Métrica de Precisión| 
 |---------------------|-----------------------|
 | Free Memory         | ![Free Memory_mrse.png](imgs%2Flstmu%2FFree%20Memory_mrse-result-1.png)                   
-![Free Memory_mae.png](imgs%2Flstmu%2FFree%20Memory_mae-result-1.png)                   
-![Free Memory_mape.png](imgs%2Flstmu%2FFree%20Memory_mape-result-1.png)                   | 
+|![Free Memory_mae.png](imgs%2Flstmu%2FFree%20Memory_mae-result-1.png)   |                
+|![Free Memory_mape.png](imgs%2Flstmu%2FFree%20Memory_mape-result-1.png)                   | 
 
 | Variable            | RMSE                                                                     | MAE                                                                     | MAPE                                                                     | 
 |---------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------|
