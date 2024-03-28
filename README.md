@@ -1,6 +1,6 @@
 # [Bienvenido](#inicio)
 
-En esta página, usted encontrara información relevante asociada al artículo Modelos LSTM para la predicci ́on de calidad de servicios cloud y la metodología de investigación 
+En esta página, usted encontrara información relevante asociada al artículo Modelos LSTM para la predicción de calidad de servicios cloud.
 
 ## Indice
 
