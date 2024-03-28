@@ -14,7 +14,7 @@ El conjunto de datos corresponde a la información obtenida de la monitorizació
 
 - <a href ="./files/datos.csv">  Fuente de datos </a>
 
-### _Datasets_
+### 1.1. Datasets
 
 | Variable            | Dataset                                                                  |
 |---------------------|----------------------------------------------------------------------------|
@@ -45,7 +45,7 @@ En esta sección ubicamos el código fuente del modelo LSTM Univariado y el resu
 
 </p>
 
-### _ITERACION 1_
+### 2.1. Iteración 1
 
 | Variable            | Entrenamiento                                                                           | Pruebas                                                                                |
 |---------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
@@ -67,7 +67,9 @@ En esta sección ubicamos el código fuente del modelo LSTM Univariado y el resu
 | Uptime              | ![Uptime_train_result.png](imgs%2Flstmu%2FUptime_train_result-1.png)                               | ![Uptime_test_result.png](imgs%2Flstmu%2FUptime_test_result-result-1.png)                               |
 
 [Inicio](#inicio)
-### _METRICAS DE PRECISION_
+
+### 2.2. Métricas de Precisión
+
 | Variable            | RMSE                                                                     | MAE                                                                     | MAPE                                                                     | 
 |---------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | Free Memory         | ![Free Memory_mrse.png](imgs%2Flstmu%2FFree%20Memory_mrse-result-1.png)                   | ![Free Memory_mae.png](imgs%2Flstmu%2FFree%20Memory_mae-result-1.png)                    | ![Free Memory_mape.png](imgs%2Flstmu%2FFree%20Memory_mape-result-1.png)                   | 
@@ -99,7 +101,7 @@ En esta sección ubicamos el código fuente del modelo LSTM Univariado y el resu
     </a>
 </p>
 
-### _ITERACION 1_
+### 3.1. Iteración 1
 
 | Variable            | Entrenamiento                                                                          | Pruebas                                                                               |
 |---------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
@@ -122,7 +124,8 @@ En esta sección ubicamos el código fuente del modelo LSTM Univariado y el resu
 
 [Inicio](#inicio)
 
-### _METRICAS DE PRECISION_
+### 3.2. Métricas de Precisión
+
  | RMSE                                                                     | MAE                                                                     | MAPE                                                                     | 
 |--------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------|
  | ![Memory Used percent_rmse.png](imgs%2Flstmm%2FMemory%20Used%20percent_rmse-result-1.png) | ![Memory Used percent_ma.png](imgs%2Flstmm%2FMemory%20Used%20percent_mae-result-1.png) | ![Memory Used percent_mape.png](imgs%2Flstmm%2FMemory%20Used%20percent_mape-result-1.png) | 
