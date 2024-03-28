@@ -12,7 +12,7 @@ En esta página, usted encontrara información relevante asociada al artículo M
 ## 1. Datos {#Datos}
 El conjunto de datos corresponde a la información obtenida de la monitorización del servicio SAlert, el cual esta  compuesto por 16 métricas de calidad como variables de entrada y sus mediciones corresponden en una serie temporal.
 
-- <a href ="./files/datos.xls">  Fuente de datos </a>
+- <a href ="./files/datos.csv">  Fuente de datos </a>
 
 ### _Datasets_
 
@@ -37,15 +37,17 @@ El conjunto de datos corresponde a la información obtenida de la monitorizació
 
 ## 2. Modelos LSTM Univariados {#LSTMU}
 En esta sección ubicamos el código fuente del modelo LSTM Univariado y el resultado de las cinco ejecuciones
+
 <p align="center">
-    <a href="https://colab.research.google.com/drive/xx">
+    <a href="https://colab.research.google.com/drive/1rfBBedaReGYBUKgm2sCVJtxRKFFSPCjE">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
+
 </p>
 
 ### _ITERACION 1_
 
-| Variable            | Training                                                                            | Testing                                                                                |
+| Variable            | Entrenamiento                                                                           | Pruebas                                                                                |
 |---------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | Free Memory         | ![Free Memory_train_result.png](imgs%2Flstmu%2FFree%20Memory_train_result-1.png)                   | ![Free Memory_test_result.png](imgs%2Flstmu%2FFree%20Memory_test_result-result-1.png)                   |
 | Used Memory         | ![Used Memory_train_result.png](imgs%2Flstmu%2FUsed%20Memory_train_result-1.png)                   | ![Used Memory_test_result.png](imgs%2Flstmu%2FUsed%20Memory_test_result-result-1.png)                   |
@@ -92,14 +94,14 @@ En esta sección ubicamos el código fuente del modelo LSTM Univariado y el resu
 ## 3. Modelos LSTM Multivariados {#LSTMM}
 En esta sección ubicamos el código fuente del modelo LSTM Univariado y el resultado de las cinco ejecuciones
 <p align="center">
-    <a href="https://colab.research.google.com/drive/xx">
+    <a href="https://colab.research.google.com/drive/1cMLcz9DKU_lyPo1y3DXcLfp0N63HbLfr">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
 </p>
 
 ### _ITERACION 1_
 
-| Variable            | Training                                                                            | Testing                                                                                |
+| Variable            | Entrenamiento                                                                          | Pruebas                                                                               |
 |---------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | Free Memory         | ![Free Memory_train_result.png](imgs%2Flstmm%2FFree%20Memory_train_result-1.png)                   | ![Free Memory_test_result.png](imgs%2Flstmm%2FFree%20Memory_test_result-1.png)                   |
 | Used Memory         | ![Used Memory_train_result.png](imgs%2Flstmm%2FUsed%20Memory_train_result-1.png)                   | ![Used Memory_test_result.png](imgs%2Flstmm%2FUsed%20Memory_test_result-1.png)                   |
