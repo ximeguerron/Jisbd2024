@@ -1,6 +1,6 @@
 # [Bienvenido](#inicio)
 
-En esta página, usted encontrara información relevante asociada al artículo _Modelos LSTM para la Predicción de Calidad de Servicios Cloud_.
+En esta página, usted encontrará información relevante asociada al artículo _Comparación de la precisión de modelos LSTM para la predicción de calidad de servicios cloud: Un cuasi-experimento_.
 
 ## Indice
 
@@ -10,7 +10,7 @@ En esta página, usted encontrara información relevante asociada al artículo _
 
 
 # 1. Datos {#Datos}
-El conjunto de datos corresponde a la información obtenida de la monitorización del servicio SAlert, el cual esta  compuesto por 16 métricas de calidad como variables de entrada y sus mediciones corresponden en una serie temporal.
+El conjunto de datos corresponde a la información obtenida de la monitorización del servicio _SAlert_, el cual esta  compuesto por 16 métricas de calidad como variables de entrada y sus mediciones corresponden en una serie temporal.
 
 - <a href ="./files/datos.csv">  Fuente de datos </a>
 
